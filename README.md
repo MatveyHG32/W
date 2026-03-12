@@ -1,5 +1,5 @@
 # W
 
-This is my first GitHub repository.
+В файле main.py представлен результат по освоению тестирования при помощи библиотеки PyTest.
 
 Author: Matvey 
